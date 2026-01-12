@@ -115,11 +115,10 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-```
-📷 https://github.com/mmda1983/E-Commerce-DashBoard/blob/main/E-Commerce_DashBoard.jpg
-```
+ https://github.com/mmda1983/E-Commerce-DashBoard/blob/main/E-Commerce_DashBoard.jpg
 
----
+
+
 
 ## 📌 Future Enhancements
 
